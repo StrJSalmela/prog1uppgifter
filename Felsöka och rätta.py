@@ -10,4 +10,4 @@ for num in numbers: #kolon saknades (syntaxfel)
 average = total / len(numbers) #felstavad variabel, numberss ska vara numbers (körtidsfel)
 
 # Skriv ut resultatet
-print("Medelvärdet är: " + str(average)) #
+print("Medelvärdet är: ", average) #Python kan inte konkatenera str & float, ändrar "+" till "," (körtidsfel)
