@@ -1,4 +1,4 @@
-korrektlösenord = "kod123"
+korrektlösenord = "kod123" 
 while True:
     lösen = input("Fyll i lösenord:")
     if lösen==korrektlösenord:
@@ -7,3 +7,5 @@ while True:
     
     else:
         print("Fel lösenord, försök igen!")
+        
+print(type(korrektlösenord))
