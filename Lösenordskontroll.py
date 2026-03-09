@@ -6,6 +6,4 @@ while True:
         break
     
     else:
-        print("Fel lösenord, försök igen!")
-        
-print(type(korrektlösenord))
+        print("Fel lösenord, försök igen!") 
