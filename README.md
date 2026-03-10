@@ -61,8 +61,13 @@ https://github.com/StrJSalmela/prog1uppgifter/blob/main/%C3%85lderskontroll.py
 
 ## Område 5
 
+### Fruktlista:
+https://github.com/StrJSalmela/prog1uppgifter/blob/main/Fruktlista.py
+### Kontaktlista:
+https://github.com/StrJSalmela/prog1uppgifter/blob/main/Kontaktlista.py
+### Användarnamn:
+https://github.com/StrJSalmela/prog1uppgifter/blob/main/Anv%C3%A4ndarnamn.py
+###
 
 
 Alla program är skapade i VS code 1.109.4 och med Python 3.14.3
-
-Kör filerna i terminalen:
