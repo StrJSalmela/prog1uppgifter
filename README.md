@@ -67,7 +67,11 @@ https://github.com/StrJSalmela/prog1uppgifter/blob/main/Fruktlista.py
 https://github.com/StrJSalmela/prog1uppgifter/blob/main/Kontaktlista.py
 ### Användarnamn:
 https://github.com/StrJSalmela/prog1uppgifter/blob/main/Anv%C3%A4ndarnamn.py
-###
-
+### Enkla menyval
+https://github.com/StrJSalmela/prog1uppgifter/blob/main/Enkla%20menyval.py
+### Kalkylator
+https://github.com/StrJSalmela/prog1uppgifter/blob/main/Kalkylator.py
+### Kontaktbok
+https://github.com/StrJSalmela/prog1uppgifter/blob/main/Kontakbok.py
 
 Alla program är skapade i VS code 1.109.4 och med Python 3.14.3
